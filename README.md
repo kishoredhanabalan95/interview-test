@@ -1,10 +1,22 @@
-# Capstone
+# Demo Application
 
-The Project is One on One chat created using Socket.io
+The Project is developed for Interview Test
 
-Technology Stack: MERN
+Technology Stack: ReactJs, NodeJs, Express
+
+Prerequisite to Install Dependencies for Backend
+
+*npm install*
+
+Prerequisite to Install Dependencies for Frontend
+
+*cd .\frontend\*  (Change directory to "frontend")
+
+*npm install*
 
 Command to run the Project
+
+*cd..* (Again change directory to main project directory)
 
 *npm run dev*
 
