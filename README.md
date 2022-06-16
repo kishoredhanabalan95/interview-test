@@ -6,7 +6,7 @@ Technology Stack: ReactJs, NodeJs, Express
 
 Prerequisite to Install Dependencies for Backend
 
-*npm install*
+_npm install_
 
 Prerequisite to Install Dependencies for Frontend
 
