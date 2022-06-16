@@ -6,11 +6,11 @@ Technology Stack: ReactJs, NodeJs, Express
 
 Prerequisite to Install Dependencies for Backend
 
-_npm install_
+*npm install*
 
 Prerequisite to Install Dependencies for Frontend
 
-*cd .\frontend\*  (Change directory to "frontend")
+*cd .\frontend\* (Change directory to "frontend")
 
 *npm install*
 
