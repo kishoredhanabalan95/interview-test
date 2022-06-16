@@ -4,26 +4,26 @@ The Project is developed for Interview Test
 
 Technology Stack: ReactJs, NodeJs, Express
 
-Prerequisite to Install Dependencies for Backend
+1. Prerequisite to Install Dependencies for Server
 
 *npm install*
 
-Prerequisite to Install Dependencies for Frontend
+2. Prerequisite to Install Dependencies for Client
 
 *cd .\frontend\* (Change directory to "frontend")
 
 *npm install*
 
-Command to run the Project
+3. Command to run the Project
 
 *cd..* (Again change directory to main project directory)
 
 *npm run dev*
 
-To run only server
+To run only server (if required)
 
 *npm run server*
 
-To run only client 
+To run only client (if required)
 
 *npm run client*
