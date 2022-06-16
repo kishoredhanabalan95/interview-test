@@ -10,7 +10,7 @@ Technology Stack: ReactJs, NodeJs, Express
 
 2. Prerequisite to Install Dependencies for Client
 
-*cd .\frontend\* (Change directory to "frontend")
+*cd frontend* (Change directory to "frontend")
 
 *npm install*
 
@@ -20,10 +20,10 @@ Technology Stack: ReactJs, NodeJs, Express
 
 *npm run dev*
 
-To run only server (if required)
+4. To run only server (if required)
 
 *npm run server*
 
-To run only client (if required)
+5. To run only client (if required)
 
 *npm run client*
